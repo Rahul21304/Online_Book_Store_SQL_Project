@@ -5,7 +5,6 @@ A hands-on SQL project analyzing an **Online Bookstore** database to uncover val
 This project works with **three relational tables** — **Books**, **Customers**, and **Orders** — and answers **real-world business questions** using MySQL.
 
 ---
-
 ## 🚀 Project Overview
 
 The goal of this project is to simulate real-world database queries for an e-commerce bookstore.
@@ -36,13 +35,20 @@ I used **Basic** and **Advanced** SQL techniques to:
 
 ---
 
+## ER Diagram
+
+The Entity Relationship (ER) Diagram of the Online Bookstore database is shown below
+<img width="1248" height="778" alt="Screenshot 2025-08-19 131924" src="https://github.com/user-attachments/assets/3664af7c-cfd2-4d79-ae69-bf393fba34ae" />
+
+---
+
 ## 🔍 Sample Insights
 
-✅ Total revenue generated from all orders
-✅ Top 3 most expensive books in the **Fantasy** genre
-✅ Cities with customers who spent more than \$30
-✅ Most frequently ordered book & best-selling genre
-✅ Remaining stock after fulfilling all orders
+* ✅ Total revenue generated from all orders
+* ✅ Top 3 most expensive books in the **Fantasy** genre
+* ✅ Cities with customers who spent more than \$30
+* ✅ Most frequently ordered book & best-selling genre
+* ✅ Remaining stock after fulfilling all orders
 
 ---
 
@@ -94,7 +100,7 @@ I used **Basic** and **Advanced** SQL techniques to:
 ## 📢 Connect With Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/rahul-gautam-5981b5227)
-📧 Email: *your email here*
+📧 Email: *gautamrahul.2106@gmail.com*
 
 ---
 
